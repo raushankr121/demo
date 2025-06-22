@@ -1,2 +1,2 @@
 # demo
-This is my demo to get &amp; git hub class.
+This is my demo to git &amp; git hub class.
